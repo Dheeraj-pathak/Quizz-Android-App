@@ -41,13 +41,7 @@
 
 ---
 
-## 📦 Installation Guide
 
-Follow these steps to get the app up and running locally:
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Dheeraj-pathak/Quizz-Android-App.git
 
 
 📜 License
